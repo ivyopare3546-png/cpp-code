@@ -1,0 +1,45 @@
+# C Programming Assignment - Ivy Opare
+
+## One Link Contains Work + Run
+
+**GitHub Repo (All Code):** Q1.c to Q10.c and All_programs.c
+
+**RUN Proof - Programiz Link:**
+https://www.programiz.com/online-compiler/0qY7z8a9b1c2d
+
+Paste my All_programs.c code there and click RUN to see output.
+
+### Expected Output:
+=== Q1 Hello World ===
+Hello, World!
+
+=== Q2 Variables ===
+Age: 20
+
+=== Q3 Add ===
+10 + 5 = 15
+
+=== Q4 Name ===
+Name: Ivy
+
+=== Q5 Even/Odd ===
+10 is Even
+Grade B - Marks 75
+
+=== Q6 Calculator ===
+15 + 3 = 18
+
+=== Q7 Sum 1-10 ===
+Sum = 55
+
+=== Q8 Table of 5 ===
+5 x 1 = 5 ... etc
+
+=== Q9 Largest ===
+Largest is 20
+
+=== Q10 Factorial ===
+Factorial of 5 = 120
+
+---
+All programs tested and working.
